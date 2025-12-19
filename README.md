@@ -2,6 +2,9 @@
 
 An interactive **Streamlit-based Machine Learning application** that analyzes solar power data and predicts solar energy generation using a **Gradient Boosting Regression model**.
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/24acafe1-4aa3-4e03-94ef-fab7c361578b" />
+
 ---
 
 ## 🚀 Live Demo
