@@ -38,9 +38,9 @@ def load_scaler(path):
     return joblib.load(path)
 
 # ---- FILE PATHS ----
-DATA_PATH = r"C:\Users\Runku\DS Project 2\solarpowergeneration.csv"
-MODEL_PATH = r"C:\Users\Runku\DS Project 2\gradient_boosting_model.joblib"
-SCALER_PATH = r"C:\Users\Runku\DS Project 2\scaler.joblib"
+DATA_PATH = "solarpowergeneration.csv"
+MODEL_PATH = "gradient_boosting_model.joblib"
+SCALER_PATH = "scaler.joblib"
 
 # Load assets
 df = load_data(DATA_PATH)
@@ -178,4 +178,5 @@ if st.button("Generate Predictions"):
                        csv,
                        "solar_predictions.csv",
                        "text/csv")
+
 
