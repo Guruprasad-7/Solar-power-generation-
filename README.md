@@ -76,7 +76,11 @@ Solar-power-generation-/
 
 
 👨‍💻 Author
+
 **Guruprasad S Biradar**
+
 📧 Email: guruprasadbiradar777@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/guruprasad-biradar
+
 💻 GitHub: https://github.com/Guruprasad-7
